@@ -1,0 +1,34 @@
+{
+ "region": "강원 평창군 대화면",
+ "nameEn": "Seoul National University Pyeongchang Campus",
+ "added": "2026-10-17",
+ "rank": 26,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "SONGHO",
+   "campus": "송호대학교",
+   "km": 39.4
+  },
+  {
+   "code": "CKU",
+   "campus": "가톨릭관동대학교",
+   "km": 43.9
+  },
+  {
+   "code": "KANGWON-GANGNEUNG",
+   "campus": "강원대학교 강릉캠퍼스",
+   "km": 45.4
+  },
+  {
+   "code": "SEMYUNG",
+   "campus": "세명대학교",
+   "km": 45.8
+  },
+  {
+   "code": "YONSEI-WMED",
+   "campus": "연세대학교 원주의과대학",
+   "km": 48.6
+  }
+ ]
+}
